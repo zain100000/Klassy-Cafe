@@ -39,7 +39,7 @@ img {
   left: 0;
   z-index: 999999;
   background: #fe0000;
-  background-image: url("../Klassy Cafe/images/white-logo.png");
+  background-image: url("../images/white-logo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -282,7 +282,7 @@ img {
 /* Contact Css Start */
 
 #contact {
-  background: url("../Klassy Cafe/images/reservation-bg.jpg");
+  background: url("../images/reservation-bg.jpg");
   background-repeat: no-repeat;
 }
 #contact .message {
